@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35222.181
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "BibliotecaApi", "BibliotecaApi\BibliotecaApi.csproj", "{9C58BCD1-B3B5-4CB7-8888-A52AE1269B22}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EmprestimoBiblioteca", "EmprestimoBiblioteca\EmprestimoBiblioteca.csproj", "{2A4D8BD0-1497-4F3C-835F-96496CA66F30}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9C58BCD1-B3B5-4CB7-8888-A52AE1269B22}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9C58BCD1-B3B5-4CB7-8888-A52AE1269B22}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9C58BCD1-B3B5-4CB7-8888-A52AE1269B22}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9C58BCD1-B3B5-4CB7-8888-A52AE1269B22}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2A4D8BD0-1497-4F3C-835F-96496CA66F30}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A4D8BD0-1497-4F3C-835F-96496CA66F30}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A4D8BD0-1497-4F3C-835F-96496CA66F30}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A4D8BD0-1497-4F3C-835F-96496CA66F30}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4828D17A-6B09-42F0-8AEB-475372E56AD2}
+	EndGlobalSection
+EndGlobal
